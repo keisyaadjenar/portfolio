@@ -1,22 +1,18 @@
 {
-    "name": "Aminuddin Rizal (林安明)- Lecturer Computer and Electronic Engineering",
-    "description": "Dedicated and dynamic Computer Engineer with a passion for teaching and sharing knowledge. Possessing extensive experience in both industry and academia, with a solid foundation in computer engineering principles and technologies. Proven track record of delivering engaging lectures and fostering an interactive learning environment conducive to student success. Adept at integrating real-world examples and practical applications into curriculum to enhance student understanding. Committed to staying abreast of emerging trends in computer engineering and incorporating them into instructional materials. Seeking to leverage expertise in computer engineering and passion for education to inspire and empower the next generation of engineers.",
+    "name": "Keisya Djenar Dinda Lestari",
+    "description": " third-year student of Applied Electronics Engineering Technology at Politeknik Negeri Semarang, with a strong interest in industrial electronics, automation systems, and embedded systems. Possesses solid foundational skills in circuit assembly, microcontroller programming, and system analysis. Eager to gain real-world experience through internship or part-time opportunities to further enhance technical skills and contribute effectively in a dynamic work environment. Aspiring electrical engineer looking to leverage academic background in electronic engineering technology and practical skills in software and hardware development to gain industry experience and advance my career in electronics and automation.",
     "profileImage": "images/profile.jpg",
-    "email": "aminuddin.rizal@polines.ac.id",
-    "phone": "+62 (851) 324-78890",
+    "email": "keisyaadjenar@gmail.com",
+    "phone": "+62 8882648759",
     "socialMedia": [
         {
-            "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/aminuddin-rizal128"
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/keisyaadjenar?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
         },
         {
             "platform": "GitHub",
-            "url": "https://github.com/rizalhalim9"
+            "url": "https://github.com/keisyaadjenar"
         },
-        {
-            "platform": "Twitter",
-            "url": "https://twitter.com/redpandalin"
-        }
     ],
     "cv": {
 			"text": "Download CV",
@@ -24,7 +20,7 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "", "icon": "fas fa-heart-pulse", "level": 90},
         {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
